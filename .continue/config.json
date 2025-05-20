@@ -1,0 +1,12 @@
+{
+  "models": [
+    {
+      "title": "Deepseek Coder 33B (local)",
+      "model": "ollama/deepseek-coder:33b",
+      "apiBase": "http://localhost:11434",
+      "completionOptions": {
+        "temperature": 0.2
+      }
+    }
+  ]
+}
